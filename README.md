@@ -18,9 +18,9 @@
 
 ```
 astrbot_plugin_herodotus\
-├─ metadata.yaml        （P8）插件元数据；AstrBot 依赖它识别插件
-├─ main.py              （P8）Star 子类入口
-├─ requirements.txt     （P8）插件依赖（AstrBot 用 pip 管理）
+├─ metadata.yaml        （V7）插件元数据；AstrBot 依赖它识别插件
+├─ main.py              （V7）Star 子类入口
+├─ requirements.txt     （V7）插件依赖（AstrBot 用 pip 管理）
 ├─ pages\               WebUI 页面
 ├─ skills\              随插件 Skills
 └─ tests\
